@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SLOTMACHINE1
+</name>
+</assembly>
+<members>
+<member name="P:SLOTMACHINE.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.CONG">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.FRUITAS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.FRUITAS1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.l">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_05_57_41">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_06_26_57">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_06_31_07">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_07_28_38">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_07_30_06">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_11_05_18">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:SLOTMACHINE.My.Resources.Resources.PicsArt_12_17_11_05_25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:SLOTMACHINE.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

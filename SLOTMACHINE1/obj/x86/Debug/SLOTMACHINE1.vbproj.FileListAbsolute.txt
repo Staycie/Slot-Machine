@@ -1,0 +1,9 @@
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\bin\Debug\SLOTMACHINE1.exe
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\bin\Debug\SLOTMACHINE1.pdb
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\bin\Debug\SLOTMACHINE1.xml
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\obj\x86\Debug\SLOTMACHINE.Form1.resources
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\obj\x86\Debug\SLOTMACHINE.Resources.resources
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\obj\x86\Debug\SLOTMACHINE1.vbproj.GenerateResource.Cache
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\obj\x86\Debug\SLOTMACHINE1.exe
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\obj\x86\Debug\SLOTMACHINE1.xml
+C:\Users\Stacy\Documents\Visual Studio 2010\Projects\SLOTMACHINE1\SLOTMACHINE1\obj\x86\Debug\SLOTMACHINE1.pdb

@@ -1,0 +1,9 @@
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\bin\Debug\SLOTMACHINE.exe
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\bin\Debug\SLOTMACHINE.pdb
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\bin\Debug\SLOTMACHINE.xml
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\obj\x86\Debug\SLOTMACHINE.Form1.resources
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\obj\x86\Debug\SLOTMACHINE.Resources.resources
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\obj\x86\Debug\SLOTMACHINE.vbproj.GenerateResource.Cache
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\obj\x86\Debug\SLOTMACHINE.exe
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\obj\x86\Debug\SLOTMACHINE.xml
+C:\Users\Stacy\AppData\Local\Temporary Projects\SLOTMACHINE\obj\x86\Debug\SLOTMACHINE.pdb
